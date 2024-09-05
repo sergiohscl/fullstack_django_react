@@ -1,0 +1,23 @@
+/* ItemComponent.css */
+
+li {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    margin: 10px 0;
+    padding: 10px;
+    list-style-type: none;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  li span {
+    font-weight: bold;
+  }
+  
+  .status-finalizado {
+    color: green;
+  }
+  
+  .status-nao-finalizado {
+    color: red;
+  }
+  
